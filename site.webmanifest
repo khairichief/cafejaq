@@ -1,0 +1,12 @@
+{
+  "name": "Cozy Cafe",
+  "short_name": "Cozy Cafe",
+  "icons": [
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#3b2618",
+  "background_color": "#f7efe3",
+  "display": "standalone",
+  "start_url": "index.html"
+}
